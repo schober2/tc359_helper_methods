@@ -1,0 +1,84 @@
+checking build system type... x86_64-apple-darwin14.1.0
+checking host system type... x86_64-apple-darwin14
+checking for a BSD-compatible install... /usr/local/opt/coreutils/libexec/gnubin//install -c
+checking whether build environment is sane... yes
+checking for x86_64-apple-darwin14-strip... no
+checking for strip... strip
+checking for a thread-safe mkdir -p... /usr/local/opt/coreutils/libexec/gnubin//mkdir -p
+checking for gawk... no
+checking for mawk... no
+checking for nawk... no
+checking for awk... awk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether make supports nested variables... (cached) yes
+checking for x86_64-apple-darwin14-gcc... no
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking for style of include used by make... GNU
+checking dependency style of gcc... gcc3
+checking whether ln -s works... yes
+checking how to run the C preprocessor... gcc -E
+checking for mv... /usr/local/opt/coreutils/libexec/gnubin//mv
+checking for tar... /usr/bin/tar
+checking for perl... /usr/bin/perl
+checking for wget... /usr/bin/wget
+checking for xmllint... /usr/bin/xmllint
+checking for xsltproc... /usr/bin/xsltproc
+checking for x86_64-apple-darwin14-pkg-config... no
+checking for pkg-config... /usr/local/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/bin/sed
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for fgrep... /usr/bin/grep -F
+checking for ld used by gcc... /Library/Developer/CommandLineTools/usr/bin/ld
+checking if the linker (/Library/Developer/CommandLineTools/usr/bin/ld) is GNU ld... no
+checking for BSD- or MS-compatible name lister (nm)... no
+checking for x86_64-apple-darwin14-dumpbin... no
+checking for x86_64-apple-darwin14-link... no
+checking for dumpbin... no
+checking for link... link -dump
+checking the name lister (nm) interface... BSD nm
+checking the maximum length of command line arguments... 196608
+checking whether the shell understands some XSI constructs... yes
+checking whether the shell understands "+="... yes
+checking how to convert x86_64-apple-darwin14.1.0 file names to x86_64-apple-darwin14 format... func_convert_file_noop
+checking how to convert x86_64-apple-darwin14.1.0 file names to toolchain format... func_convert_file_noop
+checking for /Library/Developer/CommandLineTools/usr/bin/ld option to reload object files... -r
+checking for x86_64-apple-darwin14-objdump... no
+checking for objdump... no
+checking how to recognize dependent libraries... pass_all
+checking for x86_64-apple-darwin14-dlltool... no
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for x86_64-apple-darwin14-ar... no
+checking for ar... ar
+checking for archiver @FILE support... no
+checking for x86_64-apple-darwin14-strip... strip
+checking for x86_64-apple-darwin14-ranlib... no
+checking for ranlib... ranlib
+checking command to parse nm output from gcc object... ok
+checking for sysroot... no
+checking for x86_64-apple-darwin14-mt... no
+checking for mt... no
+checking if : is a manifest tool... no
+checking for x86_64-apple-darwin14-dsymutil... no
+checking for dsymutil... dsymutil
+checking for x86_64-apple-darwin14-nmedit... no
+checking for nmedit... nmedit
+checking for x86_64-apple-darwin14-lipo... no
+checking for lipo... lipo
+checking for x86_64-apple-darwin14-otool... no
+checking for otool... otool
+checking for x86_64-apple-darwin14-otool64... no
+checking for otool64... no
+checking for -single_module linker flag... 
